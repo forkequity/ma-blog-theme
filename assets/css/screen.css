@@ -113,7 +113,7 @@ body {
     position: relative;
     margin-top: 64px;
     padding-bottom: 12px;
-    color: #fff;
+    color: black; /* Fork override */
     background: #fff; /* Fork override */
     background-size: cover;
 }
@@ -283,7 +283,7 @@ body {
     right: 0;
     left: 0;
     z-index: 1000;
-    background: color(var(--darkgrey) l(-5%));
+    background: #fff; /* Fork override */
 }
 
 .site-nav {
@@ -402,7 +402,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     position: relative;
     display: block;
     padding: 12px 12px;
-    color: #fff;
+    color: black; /* Fork override */
     opacity: 0.8;
     transition: opacity 0.35s ease-in-out;
 }
