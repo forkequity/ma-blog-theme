@@ -3,12 +3,12 @@
 
 :root {
     /* Colours */
-    --blue: #3eb0ef;
+    --blue: #7955e5; /* Fork - dark purple override */
     --green: #a4d037;
     --purple: #ad26b4;
     --yellow: #fecd35;
     --red: #f05230;
-    --darkgrey: #15171A;
+    --darkgrey: #ad97ef; /* Fork - light purple override */
     --midgrey: #738a94;
     --lightgrey: #c5d2d9;
     --whitegrey: #e5eff5;
