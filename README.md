@@ -26,6 +26,7 @@ To bump the Micro Acquisitions blog with the latest styles in this repo:
 3. git commit/push
 4. copy latest git hash (git log)
 5. paste into forkequity/ma-blog repo > package.json casper following `.git#`
+6. inside `ma-blog` repo, `npm install` to bump theme version in package-lock
 
 # Copyright & License
 
